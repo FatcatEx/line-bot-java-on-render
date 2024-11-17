@@ -2,7 +2,7 @@ services:
 - type: web
   name: line-bot-java
   env: docker
-  dockerContext: ./line-bot-sdk-java-FatCatBots
+  dockerContext: ./line-bot-sdk-java-FatCatBot
   plan: free
   autoDeploy: false
   envVars:	
@@ -11,6 +11,6 @@ services:
   - key: CHANNEL_SECRET
     sync: false
   - key: SAMPLE_FOLDER
-    value: sample-spring-boot-echo
+    value: FacCatBot-Test
 #     value: sample-spring-boot-echo-kotlin
 #     value: sample-spring-boot-kitchensink
