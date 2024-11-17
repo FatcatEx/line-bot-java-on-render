@@ -4,3 +4,6 @@
 [submodule "line-bot-sdk-java-FatCatBot"]
 	path = line-bot-sdk-java-FatCatBot
 	url = https://github.com/FatcatEx/line-bot-sdk-java-FatCatBot.git
+[submodule "FatcatBot-Test"]
+	path = FatcatBot-Test
+	url = https://github.com/FatcatEx/FatcatBot-Test.git
