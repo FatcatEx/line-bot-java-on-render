@@ -11,6 +11,6 @@ services:
   - key: CHANNEL_SECRET
     sync: false
   - key: SAMPLE_FOLDER
-    value: FacCatBot-Test
+    value: sample-spring-boot-echo
 #     value: sample-spring-boot-echo-kotlin
 #     value: sample-spring-boot-kitchensink
