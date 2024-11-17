@@ -2,10 +2,10 @@ services:
 - type: web
   name: line-bot-java
   env: docker
-  dockerContext: ./line-bot-sdk-java-FatCatBot
+  dockerContext: ./line-bot-sdk-java-FatCatBots
   plan: free
   autoDeploy: false
-  envVars:
+  envVars:	
   - key: CHANNEL_TOKEN
     sync: false
   - key: CHANNEL_SECRET
