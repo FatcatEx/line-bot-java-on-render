@@ -1,6 +1,6 @@
 [submodule "line-bot-sdk-java"]
 	path = line-bot-sdk-java
-	url = https://github.com/FatcatEx/line-bot-sdk-java.git
+	url = https://github.com/FatcatEx/line-bot-sdk-java
 [submodule "line-bot-sdk-java-FatCatBot"]
 	path = line-bot-sdk-java-FatCatBot
 	url = https://github.com/FatcatEx/line-bot-sdk-java-FatCatBot.git
